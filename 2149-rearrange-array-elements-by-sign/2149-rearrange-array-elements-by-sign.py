@@ -1,22 +1,15 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        negative= []
-        positive= []
+        n = len(nums)
+        ans = [0]*n
+        positive, negative = 0, 1
         for i in range(0, len(nums)):
-            if nums[i] < 0:
-                negative.append(nums[i])
+            if nums[i]>0:
+                ans[positive] = nums[i]
+                positive+=2
+
             else:
-                positive.append(nums[i])
-        
-
-        ans = []
-
-        for i in range(len(positive)):
-            ans.append(positive[i])
-            ans.append(negative[i])
-
+                ans[negative] =  nums[i]
+                negative += 2
         return ans
-
-
-
-        
+            
