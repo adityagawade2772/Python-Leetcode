@@ -12,11 +12,13 @@
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityagawade2772/Python-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityagawade2772/Python-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
