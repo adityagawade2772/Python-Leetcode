@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityagawade2772/Python-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
