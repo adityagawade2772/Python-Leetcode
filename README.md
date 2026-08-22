@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
