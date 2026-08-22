@@ -9,6 +9,7 @@
 | [0053-maximum-subarray](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -34,6 +35,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -65,4 +67,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0125-valid-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
