@@ -1,17 +1,38 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
+        ans = []
+        nums.sort()
         n = len(nums)
-        res = set()
-        for i in range(0, n-1):
-            my_set = set()
-            for j in range(i +1, n):
-                third = -(nums[i]+ nums[j])
-                if third in my_set:
-                    temp = [nums[i], nums[j], third]
-                    temp.sort()
-                    res.add(tuple(temp))
-                my_set.add(nums[j])
 
-        return [list(ans) for ans in res]
+        for i in range(n):
+            # Skip duplicate values for i
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
 
+            j = i + 1
+            k = n - 1
 
+            while j < k:
+                total = nums[i] + nums[j] + nums[k]
+
+                if total < 0:
+                    j += 1
+
+                elif total > 0:
+                    k -= 1
+
+                else:
+                    ans.append([nums[i], nums[j], nums[k]])
+
+                    j += 1
+                    k -= 1
+
+                    # Skip duplicates for j
+                    while j < k and nums[j] == nums[j - 1]:
+                        j += 1
+
+                    # Skip duplicates for k
+                    while j < k and nums[k] == nums[k + 1]:
+                        k -= 1
+
+        return ans
