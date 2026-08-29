@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -44,6 +45,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
