@@ -28,6 +28,7 @@
 | [0015-3sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -38,6 +39,7 @@
 | [0001-two-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -100,10 +102,15 @@
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
