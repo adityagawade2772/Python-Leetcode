@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0136-single-number) |
@@ -58,6 +59,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
