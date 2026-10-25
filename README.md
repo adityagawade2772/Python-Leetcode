@@ -14,6 +14,7 @@
 | [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
