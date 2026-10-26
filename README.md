@@ -77,6 +77,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -90,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
@@ -126,5 +128,10 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
