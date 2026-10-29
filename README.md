@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -149,4 +150,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0051-n-queens) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
