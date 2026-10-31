@@ -1,17 +1,21 @@
 class Solution:
     def solve(self,nums,dp,n):
-        
-        
-        for index in range(1,n):
+        prev = nums[0]
+        prev2 = float("-inf")
 
-        
+        for index in range(1,n):
+            
+            
             if index > 1:
-                pick = nums[index]+ dp[index-2]
+                pick = nums[index]+ prev2
             else: 
                 pick =nums[index]
-            not_pick = 0 + dp[index-1]
-            dp[index] = max(pick, not_pick)
-        return dp[n-1]
+            not_pick = 0 + prev
+            curr = max(pick, not_pick)
+            prev2 = prev
+            prev = curr
+            
+        return prev
 
 
 
