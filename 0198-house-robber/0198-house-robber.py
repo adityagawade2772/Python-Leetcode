@@ -1,19 +1,20 @@
 class Solution:
-    def solve(self,index,nums, dp ):
-        if index<0:
-            return 0
-        if index==0:
-            return nums[0]
-        if dp[index]!=-1:
-            return dp[index]
-        pick = nums[index]+ self.solve(index-2,nums,dp)
-        not_pick = self.solve(index-1,nums,dp)
-        dp[index] = max(pick, not_pick)
-        return dp[index]
+    def solve(self,n,nums, dp ):
+        for i in range(1,n):
+            if i ==1:
+                pick = nums[i]
+            else:
+                pick = nums[i] + dp[i-2]
+            not_pick = dp[i-1]
+            dp[i] = max(pick, not_pick)
+        return dp[n-1]
+        
+        
 
     def rob(self, nums: list[int]) -> int:
         n = len(nums)
         dp = [-1 for _ in range(n)]
-        a = self.solve(n-1, nums, dp)
+        dp[0]= nums[0]
+        a = self.solve(n, nums, dp)
         return a
 
