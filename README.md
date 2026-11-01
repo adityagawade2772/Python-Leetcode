@@ -34,6 +34,7 @@
 | [0704-binary-search](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0735-asteroid-collision) |
 | [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1004-max-consecutive-ones-iii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityagawade2772/Python-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,10 +124,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
