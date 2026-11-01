@@ -1,23 +1,29 @@
 class Solution:
     def solve(self,nums,m,n,dp):
+        prev= [0]*n
         for i in range(0,m):
+            cur =[0] *n
             for j in range(0,n):
                 if i == 0 and j ==0:
+                    cur[j] = 1
                     continue
                 if nums[i][j]==1:
-                    dp[i][j] =0
+                    cur[j] =0
                     continue
 
                 if i>0:
-                    up = dp[i-1][j]
+                    up = prev[j]
                 else:
                     up = 0
                 if j>0:
-                    left = dp[i][j-1]
+                    left = cur[j-1]
                 else:
                     left = 0
-                dp[i][j] = up + left
-        return dp[m-1][n-1]
+                cur[j] = up + left
+            prev = cur
+
+        return prev[n-1]
+        
     def uniquePathsWithObstacles(self, obstacleGrid: list[list[int]]) -> int:
         m = len(obstacleGrid)
         n = len(obstacleGrid[0])
