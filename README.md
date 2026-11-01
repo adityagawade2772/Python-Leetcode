@@ -15,6 +15,7 @@
 | [0051-n-queens](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +92,7 @@
 | [0053-maximum-subarray](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0213-house-robber-ii) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
