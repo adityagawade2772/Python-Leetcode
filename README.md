@@ -33,6 +33,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -59,6 +60,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
+| [0904-fruit-into-baskets](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
