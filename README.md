@@ -38,6 +38,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1463-cherry-pickup-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityagawade2772/Python-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -107,6 +108,7 @@
 | [0198-house-robber](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0213-house-robber-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0064-minimum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Linked List
 |  |
 | ------- |
