@@ -28,6 +28,7 @@
 | [0216-combination-sum-iii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -49,6 +50,7 @@
 | [0125-valid-palindrome](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityagawade2772/Python-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -90,6 +92,7 @@
 | [0015-3sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -198,4 +201,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
