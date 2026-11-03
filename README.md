@@ -34,6 +34,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
