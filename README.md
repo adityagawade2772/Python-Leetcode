@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0064-minimum-path-sum) |
@@ -205,6 +207,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
