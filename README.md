@@ -114,6 +114,7 @@
 | [0064-minimum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -231,11 +232,13 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -245,9 +248,11 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
