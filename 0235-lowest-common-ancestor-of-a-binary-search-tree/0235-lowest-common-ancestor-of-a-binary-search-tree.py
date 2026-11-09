@@ -20,5 +20,17 @@ class Solution:
         elif(right is None):
             return left
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        return self.solveBinaryTree(root, p,q)
+        # return self.solveBinaryTree(root, p,q)
+        node = root
+        while True:
+            if p.val < node.val and q.val > node.val:
+                return node
+            elif node.val == p.val or node.val ==q.val:
+                return node
+            elif(p.val< node.val and q.val<node.val):
+                node = node.left 
+            elif(p.val>node.val and q.val>node.val):
+                node = node.right
+            else:
+                return node
         
