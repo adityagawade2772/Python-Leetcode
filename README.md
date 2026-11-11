@@ -41,6 +41,7 @@
 | [0904-fruit-into-baskets](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -159,6 +160,7 @@
 | [0064-minimum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0931-minimum-falling-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0994-rotting-oranges) |
 | [1463-cherry-pickup-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Linked List
 |  |
@@ -254,6 +256,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0994-rotting-oranges](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
