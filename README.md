@@ -34,6 +34,7 @@
 | [0455-assign-cookies](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0733-flood-fill) |
@@ -120,6 +121,7 @@
 | [0198-house-robber](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Simulation
@@ -160,6 +162,7 @@
 | [0063-unique-paths-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0994-rotting-oranges) |
@@ -259,6 +262,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
