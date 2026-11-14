@@ -70,6 +70,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
@@ -144,6 +145,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0542-01-matrix) |
@@ -308,4 +311,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
