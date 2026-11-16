@@ -49,6 +49,7 @@
 | [0994-rotting-oranges](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1020-number-of-enclaves) |
+| [1029-two-city-scheduling](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1029-two-city-scheduling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityagawade2772/Python-Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -107,6 +108,7 @@
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1029-two-city-scheduling](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1029-two-city-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,6 +241,7 @@
 | [0055-jump-game](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0860-lemonade-change) |
+| [1029-two-city-scheduling](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1029-two-city-scheduling) |
 ## Quicksort
 |  |
 | ------- |
@@ -325,4 +328,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0127-word-ladder) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
