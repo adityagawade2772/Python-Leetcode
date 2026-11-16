@@ -1,4 +1,15 @@
 class Solution:
+    def dfs(self,i,j,grid,visited,count,m,n):
+        if i <0 or i == m or j<0 or j==n:
+            return 
+        if visited[i][j]==1 or grid[i][j]=="0":
+            return
+        if visited[i][j] == 0 and grid[i][j]=="1":
+            visited[i][j] =1
+        self.dfs(i+1,j,grid,visited,count,m,n)
+        self.dfs(i,j+1,grid,visited,count,m,n)
+        self.dfs(i-1,j,grid,visited,count,m,n)
+        self.dfs(i,j-1,grid,visited,count,m,n)
     def numIslands(self, grid: List[List[str]]) -> int:
         m = len(grid)
         n = len(grid[0])
@@ -8,17 +19,7 @@ class Solution:
         for i in range(m):
             for j in range(n):
                 if visited[i][j]==0 and grid[i][j] =="1":
-                    count +=1
-                    queue.append((i,j))
-                    while len(queue)!= 0:
-                        dx,dy = queue.popleft()
-                        for ni,nj in ((1,0),(0,1),(-1,0),(0,-1)):
-                            newi = dx+ni
-                            newj= dy+nj
-                            if newi<0 or newi== m or newj<0 or newj==n:
-                                continue
-                            if grid[newi][newj] == "1" and visited[newi][newj]==0:
-                                visited[newi][newj]=1
-                                queue.append((newi,newj))
+                    count+=1
+                    self.dfs(i,j,grid,visited,count,m,n)
 
         return count
