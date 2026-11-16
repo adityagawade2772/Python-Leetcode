@@ -25,6 +25,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -122,6 +123,7 @@
 | [0120-triangle](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0416-partition-equal-subset-sum) |
