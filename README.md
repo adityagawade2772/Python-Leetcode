@@ -39,6 +39,7 @@
 | [0485-max-consecutive-ones](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0733-flood-fill) |
@@ -79,6 +80,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
