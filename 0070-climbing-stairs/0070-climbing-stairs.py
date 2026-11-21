@@ -7,14 +7,21 @@ class Solution:
         dp[n] =self.solve(n-1,dp) + self.solve(n-2,dp)
         return dp[n]
     def climbStairs(self, n: int) -> int:
-        if n == 1:
-            return 1
-        dp = [-1 for _ in range(n+1)]
-        dp[0] =0
-        dp[1] = 1
-        dp[2] = 2
-        for i in range(3,n+1):
-            dp[i]= dp[i-1]+dp[i-2]
+        if n == 1 or n==2:
+            return n
+        # dp = [-1 for _ in range(n+1)]
+        # dp[0] =0
+        # dp[1] = 1
+        # dp[2] = 2
+        prev2 = 1
+        prev = 2
+        curr = 0
+        for _ in range(3,n+1):
+            curr = prev+ prev2
+            prev2 = prev
+            prev = curr
+
+        return curr
 
         return dp[n]
 
