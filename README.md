@@ -89,6 +89,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -128,6 +129,7 @@
 | [0062-unique-paths](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -392,4 +394,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
