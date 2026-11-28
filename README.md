@@ -142,6 +142,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Simulation
 |  |
@@ -165,6 +166,7 @@
 | [0076-minimum-window-substring](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0127-word-ladder) |
+| [1143-longest-common-subsequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -401,4 +403,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityagawade2772/Python-Leetcode/tree/master/0070-climbing-stairs) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/adityagawade2772/Python-Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
